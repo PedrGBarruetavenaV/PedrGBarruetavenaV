@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pedro Gabriel Barruetavena Vieira
 
 <!--
 **pbarruetavena/pbarruetavena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 HTML, Css, Javascript, git, linguagem C
+- 🔭 Estudante de informática no CEFET-MG
