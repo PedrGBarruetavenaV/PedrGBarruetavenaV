@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 HTML, Css, Javascript, git, linguagem C
+- 🌱 HTML, Css, Javascript, git, linguagem C e python
 - 🔭 Estudante de informática no CEFET-MG
