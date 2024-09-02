@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 HTML, Css, Javascript, git, linguagem C e python
-- 🔭 Estudante de informática no CEFET-MG
+- 🔭 Estudante de informática no CEFET-MG  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbarruetavena&layout=compact)
