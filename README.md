@@ -18,14 +18,14 @@ Apesar de pouca experiência dentro do mercado de trabalho, tenho capacitação 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)  -->
+
 
 
 ## Acadêmico
@@ -38,6 +38,6 @@ Atualmente, sou estudante de técnico em informática integrado ao Ensino Médio
 - [pbarruetavenavieira@gmail.com](mailto:pbarruetavenavieira@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/pedro-gabriel-barruetavena-vieira-66782b280/)
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbarruetavena&layout=compact" alt="Most Used Languages" style="width: 50%; margin-top: 40px;">
+<div style="text-align: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbarruetavena&layout=compact" alt="Most Used Languages" style="width: 100%; margin-top: 40px;">
 </div>
