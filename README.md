@@ -1,7 +1,7 @@
 
 # Pedro Gabriel Barruetavena Vieira
 
-Meu nome é Pedro Gabriel Barruetavena Vieira, sou da região metropolitana de Belo Horizonte - MG. Atualmente sou um estudante que acabou de entrar na fase adulta, quase formado no ensino médio técnico, buscando oportunidades de obter experiência profissional.
+Meu nome é Pedro Gabriel Barruetavena Vieira, sou da região metropolitana de Belo Horizonte - MG. Atualmente sou um estudante que acabou de entrar na fase adulta. Formado como Técnico em Informática pelo CEFET-MG. Buscando novas experiências profissionais.
 
 ## Profissional
 
@@ -30,8 +30,12 @@ Apesar de pouca experiência dentro do mercado de trabalho, tenho capacitação 
 
 ## Acadêmico
 
-Atualmente, sou estudante de técnico em informática integrado ao Ensino Médio pelo CEFET-MG de Belo Horizonte, com previsão de formação em 2024.
+- 🎓 Técnico em Informática - CEFET-MG (2022-2024)
 
+## Projetos
+
+- PIC-JR: Aplicativo para acompanhamento de Puericultura - desenvolvimento e teste (Novembro/2023 - Novembro/2024)
+- Trabalho de conclusão de curso técnico: [Dolphub](https://github.com/julia-alessandra/Dolphub) - Plataforma de curso (Julho/2024 - Dezembro/2024)
 
 ## Contato
 
